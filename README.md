@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ignacy, I'm 14 and I'm from Poland. My coding journey began somewhere in the end of the year 2022, I used to be obsessed with Python and frontend development, then I had a break from programming and now I'm back, currently learning Rust and doing some random projects.
+My name is Ignacy, I'm 14 and I'm from Poland. My coding journey began somewhere in the end of the year 2022, I used to be obsessed with Python and frontend development, then I had a break from programming and now I'm back, currently learning Rust and doing some random projects. I'm also interested in learning C and x86_64 ASM at some point to make a simple kernel.
 
 <!--
 **ignxcy/ignxcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
