@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ignacy, I'm 14 and I'm from Poland.
+My name is Ignacy, I'm from Poland
 
 <!--
 **ignxcy/ignxcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
